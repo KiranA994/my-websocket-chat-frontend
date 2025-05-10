@@ -1,3 +1,26 @@
+# Chat App Frontend (React + WebSocket + JWT)
+
+This is the frontend for a secure real-time chat app using WebSockets and JWT authentication.
+
+## 🚀 Features
+
+- User login with JWT
+- Persistent authentication using localStorage
+- Live chat with real-time messaging
+- WebSocket integration
+- Message history
+- Logout support
+
+## Requirements
+
+- "@hookform/resolvers": "^5.0.1",
+- "@tailwindcss/vite": "^4.1.5",
+- "axios": "^1.9.0",
+- "react-hook-form": "^7.56.3",
+- "react-toastify": "^11.0.5",
+- "tailwindcss": "^4.1.5",
+- "yup": "^1.6.1"
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
